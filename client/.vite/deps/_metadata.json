@@ -1,0 +1,46 @@
+{
+  "hash": "c7ad95ab",
+  "configHash": "499d161e",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "9c84fe36",
+  "optimized": {
+    "@clerk/clerk-react": {
+      "src": "../../node_modules/@clerk/clerk-react/dist/index.mjs",
+      "file": "@clerk_clerk-react.js",
+      "fileHash": "b7efa592",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a380a4c2",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "8c19d382",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c32c59f5",
+      "needsInterop": false
+    },
+    "react-type-animation": {
+      "src": "../../node_modules/react-type-animation/dist/esm/index.es.js",
+      "file": "react-type-animation.js",
+      "fileHash": "ba3f6e86",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BDRBFSCQ": {
+      "file": "chunk-BDRBFSCQ.js"
+    },
+    "chunk-VGX3AC4Y": {
+      "file": "chunk-VGX3AC4Y.js"
+    }
+  }
+}
